@@ -61,18 +61,18 @@
     color: #ac3b61;
     font-family:cursive;
     text-align: center;
-    margin: 2em;
+    margin: 1em;
     }
 
     p {
         color: #123c69;
-        font-size: 1.1em;
+        font-size: 1em;
       text-align: center;
     }
 
     div.ul {
         color: #123c69;
-        font-size: 1.1em;
+        font-size: 1em;
         display: block;
         text-align: center;
         list-style-position: inside;
@@ -80,5 +80,5 @@
 
     a {
         color: #123c69;
-        font-size: 1.1em;
+        font-size: 1em;
     }
