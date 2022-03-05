@@ -1,6 +1,7 @@
     body {
     background-color: #EEE2DC;
-    margin: 0 5em 0 5em;
+    margin: 0 5% 0 5%;
+    text-align: center;
     }
 
     hr{
@@ -16,7 +17,6 @@
         margin-bottom: 3em;
         font-family: cursive;
         color: #ac3b61;
-        text-bigger: 1em;
         }
     
 
@@ -24,6 +24,7 @@
     width: 200px;
     height: 200px;
     border-radius: 150px;
+    text-align: left;
     }   
 
 /* Tables styles */ 
