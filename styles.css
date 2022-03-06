@@ -14,17 +14,17 @@
 
     #h1cv{
         text-align: center;
-        margin-bottom: 3em;
+        margin-bottom: 1em;
         font-family: cursive;
         color: #ac3b61;
+        font-size: 2.5em;
+        position: sticky;
         }
     
-
     .bobipic{
     width: 200px;
     height: 200px;
     border-radius: 150px;
-    text-align: left;
     }   
 
 /* Tables styles */ 
@@ -33,25 +33,27 @@
         border-collapse: separate;
         empty-cells: hide;
         margin-bottom: 2em;
+        width: 100%;
     }
     .table2 {
         border-collapse: separate;
         empty-cells: hide;
-
+        width: 100%;
     }
+
     #tdSpace {
-        width: 23%;
+        width: 05%;
     }
 
     #tdImage {
-        width: 30%;
+        width: 25%;
         
     }
+
     #tdNest {
         width: 50%;
     }
 
-    
     #tdAddress {
         text-align: left;
         width: 45%;
@@ -63,7 +65,8 @@
     color: #ac3b61;
     font-family:cursive;
     text-align: center;
-    margin: 1em;
+    margin: 2em;
+    font-size: 2em;
     }
 
     p {
@@ -84,3 +87,4 @@
         color: #123c69;
         font-size: 1em;
     }
+
