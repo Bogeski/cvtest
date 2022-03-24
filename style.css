@@ -52,7 +52,7 @@
     .bottomCloud {
         position: absolute;
         top:240px;
-        left: 270px;
+        left: 150%;
     }
 /* 
     .mountain {
